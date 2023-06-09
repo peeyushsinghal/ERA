@@ -4,6 +4,8 @@ PART 1
 ------
 Screenshot of excel file
 -----------------------
+![image](https://github.com/peeyushsinghal/ERA/assets/10797988/8c2c2727-d416-4a8e-ab06-bff04e185469)
+
 
 Steps
 --------
@@ -39,18 +41,22 @@ Loop 1, 2, 3 for n times
 Screenshots of Learning Rate changes
 -----------------
 Learning Rate = 0.1
+![image](https://github.com/peeyushsinghal/ERA/assets/10797988/8bbb4fa8-75e9-4a54-a650-8a2682cac476)
 
 Learning Rate = 0.2
-
+![image](https://github.com/peeyushsinghal/ERA/assets/10797988/b9de8ec2-343c-43c6-a383-ce936c721652)
 
 Learning Rate = 0.5
-
+![image](https://github.com/peeyushsinghal/ERA/assets/10797988/fffd11b3-c854-44e2-bafb-74373e8c13e6)
 
 Learning Rate = 0.8
+![image](https://github.com/peeyushsinghal/ERA/assets/10797988/fbbaa1a5-912c-4c26-a4bd-bb927bd996ca)
 
 Learning Rate = 1.0
+![image](https://github.com/peeyushsinghal/ERA/assets/10797988/d58fd923-fa24-48b8-8f18-4f715ff078e4)
 
 Learning Rate = 2.0
+![image](https://github.com/peeyushsinghal/ERA/assets/10797988/811d6765-92d6-4dc9-92bd-e736f358b0bf)
 
 
 
