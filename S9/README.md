@@ -2,7 +2,7 @@
 
 Model Code
 ------------
-Please see model file:  hhttps://github.com/peeyushsinghal/EVA8/blob/main/S6-Assignment-Solution/model.py
+Please see model file:  [Link to Model.py](https://github.com/peeyushsinghal/ERA/blob/main/S9/model.py)
 
 
 Torch Summary
