@@ -6,10 +6,10 @@ Train ResNet18 on Cifar10 for 20 Epochs. The assignment must:
 -  prove that you are following the structure https://github.com/kuangliu/pytorch-cifar (delete bottleneck layer)
 -  that the code in your google collab notebook is NOTHING.. barely anything. There should not be any function or class that you can define in your Google Colab Notebook. Everything must be imported from all of your other files
 -  your colab file must:
-  -   rain resnet18 for 20 epochs on the CIFAR10 dataset
-  -   show loss curves for test and train datasets
-  -   show a gallery of 10 misclassified images
-  -   show gradcamLinks to an external site. output on 10 misclassified images. 
+    -   rain resnet18 for 20 epochs on the CIFAR10 dataset
+    -   show loss curves for test and train datasets
+    -   show a gallery of 10 misclassified images
+    -   show gradcamLinks to an external site. output on 10 misclassified images. 
 -  Once done, upload the code to GitHub, and share the code. This readme must link to the main repo so we can read your file structure. 
 -  Train for 20 epochs
 -  Get 10 misclassified images
