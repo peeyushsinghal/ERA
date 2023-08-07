@@ -1,0 +1,14 @@
+Assignment
+- Move your S10 assignment to Lightning first and then to Spaces such that:
+  -  (You have retrained your model on Lightning)
+  -  You are using Gradio
+  -  Your spaces app has these features:
+    -  ask the user whether he/she wants to see GradCAM images and how many, and from which layer, allow opacity change as well
+    -  ask whether he/she wants to view misclassified images, and how many
+    -  allow users to upload new images, as well as provide 10 example images
+    -  ask how many top classes are to be shown (make sure the user cannot enter more than 10)
+  -  Add the full details on what your App is doing to Spaces README 
+-  Head over to submissions and then:
+  -  Submit the Spaces App Link
+  -  Submit the Spaces README link (Space must not have a training code)
+  -  Submit the GitHub Link where Lightning Code can be found along with detailed README with log, loss function graphs, and 10 misclassified images
