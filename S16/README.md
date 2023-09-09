@@ -1,0 +1,4 @@
+- Pick the "en-fr" dataset from opus_books
+- Remove all English sentences with more than 150 "tokens"
+- Remove all french sentences where len(fench_sentences) > len(english_sentrnce) + 10
+- Train your own transformer (E-D) (do anything you want, use PyTorch, OCP, PS, AMP, etc), but get your loss under 1.8
