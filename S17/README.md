@@ -1,0 +1,3 @@
+- Re-write the code in such a way where there is one transformer.py file that you can use to train all 3 model
+- Share the last few log details for all 3 models (BERT, GPT and ViT)
+- Share the link to a single repo where all 3 ipynb files can be found
